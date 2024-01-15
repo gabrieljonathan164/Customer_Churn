@@ -30,3 +30,8 @@ RESULTS AND ANALYSIS
 The accuracy and F1-score of the models were used to assess their performance. The Random Forest model was 88% accurate and had an F1-score of 90%. 
 
 ![alt text](https://github.com/gabrieljonathan164/Customer_Churn/blob/main/Images/EDA6.jpg)
+
+According to the Telco Customer Churn project, the following are the key factors that influence customer churn in the telecom industry:
+- Customers on month-to-month contracts churned more than those on one- or two-year contracts.
+- Demographics: Customers who churned their phone service were likely to be non-seniors, without partners, and without dependents.
+- Service Utilization: According to the correlation matrix, month-to-month contracts, a lack of online security, a lack of technical support, the use of fiber optic internet service, and payment method (electronic check) have the highest correlation with customer churn.
